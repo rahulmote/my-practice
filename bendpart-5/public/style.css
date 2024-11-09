@@ -1,0 +1,16 @@
+.h1{
+    color: brown;
+}
+.post{
+    background-color: burlywood;
+}
+.username{
+    
+    font-style: italic;
+    font-size: 30px;
+}
+.content{
+
+    font-size: 18px;
+}
+
