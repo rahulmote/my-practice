@@ -1,4 +1,4 @@
-// DIVYA PAVAN DULHAT
+// Rahul Mote
 let apple ={
     name : "apple",
     color: "red"
