@@ -1,0 +1,15 @@
+{
+  "name": "bendpart-9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rahul Mote",
+  "license": "ISC",
+  "description": "this is for practice",
+  "dependencies": {
+    "mongoose": "^8.8.1"
+  }
+}
